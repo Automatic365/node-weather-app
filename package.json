@@ -11,6 +11,6 @@
   "dependencies": {
     "axios": "^0.21.3",
     "request": "^2.73.0",
-    "yargs": "^4.8.1"
+    "yargs": "^10.0.0"
   }
 }
